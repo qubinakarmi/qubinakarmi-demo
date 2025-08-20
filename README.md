@@ -1,3 +1,3 @@
 # qubinakarmi-demo
 This is Qubi Nakarmi Repository.
-Author-Qubi Nakarmi 
+Author-Qubi Nakarmi (Qubi)
